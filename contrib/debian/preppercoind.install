@@ -1,0 +1,2 @@
+debian/bin/preppercoind usr/bin
+src/preppercoind usr/lib/preppercoin
