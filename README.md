@@ -1,7 +1,7 @@
 
 PrepperCoin development tree
 
-PrepperCoin is a PoS-based cryptocurrency.
+PrepperCoin is a PoS-based cryptocurrency that can be used in situations such as global disaster or nuclear attack.
 
 Development process
 ===========================
